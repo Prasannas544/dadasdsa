@@ -1,4 +1,6 @@
 # Assignment2020
+![](https://github.com/Pragya007/Assignment2020/blob/master/Screenshots/icon.ico)
+
 # Entry Management System
 This is a PyQt application serving the purpose of entry management software. There are five different options serving different purpose. First window giving all options then it redirect user to host check-in, visitor check-in, checkout and host info page. MySQL is used in back-end. This is having simple GUI with simple database having two tables. Functionality for email and sms can also be easily given by smtp library in python.
 
